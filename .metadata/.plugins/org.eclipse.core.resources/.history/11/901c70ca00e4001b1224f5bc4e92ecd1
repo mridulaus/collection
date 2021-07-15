@@ -1,0 +1,34 @@
+package com.xworkz.listtask.tester;
+import com.xworkz.dtotask.tele.ChocolateDTO;
+import com.xworkz.listtask.main.*;
+import  java.util.List;
+import java.util.ArrayList;
+import java.util.Iterator;
+public class StreetDtoTester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	 
+		
+		List<StreetDTO> street3 = new ArrayList<StreetDTO>();
+		
+		
+		List<StreetDTO> street = new ArrayList<StreetDTO>();
+		StreetDTO list1 = new StreetDTO( "SultanStreet", 581350,"near mosque", true, "Bhatkal" );
+		
+		
+		StreetDTO list2 = new StreetDTO( "keriDubaiMarket", 581350," Down Market", true, "Bhatkal" );
+		
+		Iterator<StreetDTO> itr = street.listIterator();
+		while (itr.hasNext()) {
+			StreetDTO refDTO = itr.next();
+			System.out.println(refDTO);
+			
+		}
+
+		//System.out.println(list1);
+		//System.out.println( street3.size() );
+		//System.out.println( street3.size() );
+}
+}

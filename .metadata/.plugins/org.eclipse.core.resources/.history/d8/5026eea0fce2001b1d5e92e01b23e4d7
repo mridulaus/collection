@@ -1,0 +1,5 @@
+package com.xworkz.dtotask.constants;
+
+public enum ChocolatesType {
+
+}

@@ -1,0 +1,5 @@
+package com.java.movie.booking;
+import com.java.movie.booking.*;
+public class OnlineMovieBokking implements  TicketSystem {
+
+}

@@ -1,0 +1,5 @@
+package com.xworkz.dtotask.tele;
+
+public class TelevisionDto {
+
+}

@@ -1,0 +1,63 @@
+package com.xworkz.dtotask.tele;
+
+import java.io.Serializable;
+
+public class MessageDTO implements Serializable {
+	private String type;
+	private boolean videoCall;
+	
+	private  boolean received ;
+	private string version;
+	private String emoji;
+	public MessageDTO(String type, boolean videoCall, boolean received, string version, String emoji) {
+		super();
+		this.type = type;
+		this.videoCall = videoCall;
+		this.received = received;
+		this.version = version;
+		this.emoji = emoji;
+	}
+	public MessageDTO() {
+		System.out.println("  constructor imvoked" );
+		
+	}
+	public String getType() {
+		return type;
+	}
+	public void setType(String type) {
+		this.type = type;
+	}
+	public boolean isVideoCall() {
+		return videoCall;
+	}
+	public void setVideoCall(boolean videoCall) {
+		this.videoCall = videoCall;
+	}
+	public boolean isReceived() {
+		return received;
+	}
+	public void setReceived(boolean received) {
+		this.received = received;
+	}
+	public string getVersion() {
+		return version;
+	}
+	public void setVersion(string version) {
+		this.version = version;
+	}
+	public String getEmoji() {
+		return emoji;
+	}
+	public void setEmoji(String emoji) {
+		this.emoji = emoji;
+	}
+	@Override
+	public String toString() {
+		return "MessageDTO [type=" + type + ", videoCall=" + videoCall + ", received=" + received + ", emoji=" + emoji
+				+ "]";
+	}
+	
+	
+	
+
+}

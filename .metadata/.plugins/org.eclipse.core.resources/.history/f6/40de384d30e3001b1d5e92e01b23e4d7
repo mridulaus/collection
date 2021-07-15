@@ -1,0 +1,12 @@
+package com.xworkz.dtotask.tester;
+
+public class ChocoDtoTester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		ChocolateDTO choco = new ChocolateDTO()
+		
+	}
+
+}

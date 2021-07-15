@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="presentation.Vehicle"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.xworkz.clonetasks.tester.IndustryTester"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.xworkz.clonetasks.base.Application"/>
+    <fullyQualifiedTypeName name="com.xworkz.clonetasks.base.Industry"/>
+    <fullyQualifiedTypeName name="com.xworkz.clonetasks.base.Language"/>
+    <fullyQualifiedTypeName name="deepclone.com.mytask.deep.main.Amazon"/>
+    <fullyQualifiedTypeName name="com.mytask.deep.mainclass.Alexa"/>
+    <fullyQualifiedTypeName name="com.mytask.deep.mainclass.Amazon"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="com.mytask.deep.mainclass.UniForm"/>
+    <fullyQualifiedTypeName name="com.mytask.deep.mainclass.Student"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="com.mytask.deep.mainclass.Doctor"/>
+    <fullyQualifiedTypeName name="com.mytask.deep.mainclass.Patient"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.xworkz.dtotask.tele.MovieDTO"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>
